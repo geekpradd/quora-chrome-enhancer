@@ -1,0 +1,31 @@
+body{
+	min-width: 300px;
+}
+.header{
+	position: absolute;
+	top:6px;
+	height:25px;
+}
+.button{
+	margin-bottom: 0px;
+	margin-top: 3px;
+	
+}
+td{
+	border-bottom:none;
+	padding: 3px;
+}
+.logo{
+	padding-top: 3px;
+}
+.tagline{
+	font-family: Helvetica;
+	color:#333333;
+	font-size: 17px;
+	font-weight:bolder;
+	padding-top: 12px;
+	padding-right: 20px;
+}
+.message{
+	text-align: center;
+}
