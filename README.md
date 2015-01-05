@@ -4,7 +4,7 @@ This is a Chrome Extension to enhance the usage of Quora by providing various ad
 
 ##Installation
 
-To install this extension, grab the latest release bundled in a .crx file from here and then follow the instructions from the following <a href="http://www.maketecheasier.com/manually-install-extensions-google-chrome/">link</a> to install (use the crx file downloaded while following the instructions)
+To install this extension, grab the latest release bundled in a .crx file from <a href="https://github.com/geekpradd/quora-chrome-enhancer/releases/download/v1.5.0/Quora.Enhancer.crx"> here </a> and then follow the instructions from the following <a href="http://www.maketecheasier.com/manually-install-extensions-google-chrome/">link</a> to install (use the crx file downloaded while following the instructions)
 
 ##Usage
 
